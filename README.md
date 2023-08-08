@@ -2,8 +2,9 @@
 Building Avalanche - ETH + AVAX 
 ---
 ## Description
-
+```
 For the Degen Gaming platform on the Avalanche network, DegenToken is an ERC20 token. Players can use the token to obtain awards, give tokens to others, and exchange tokens for in-game goods sold in the platform's store. Based on the OpenZeppelin library, this smart contract has functionality including token minting (for the platform owner), token transfers, and token burning. Players can also use their tokens to purchase in-game things from the store.
+```
 ---
 ## Getting Started
 
