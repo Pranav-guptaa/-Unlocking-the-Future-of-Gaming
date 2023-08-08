@@ -110,6 +110,7 @@ contract StoreInitializer {
 ## Author
 
 Pranav Gupta
+
 Contact: [Email](mailto:pentest.pranav@gmail.com)
 ---
 ## License
